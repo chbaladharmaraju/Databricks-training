@@ -32,7 +32,7 @@ It is organized week-wise and phase/day-wise, covering SQL, PySpark, data cleani
 
 ## 📚 Quick Glimpse
 
-## Week0 (Foundation Phases)
+## Week-01 (Foundation Days)
 
 - **Day-01:** SQL basics
 - **Day-02:** joins, aggregations, transformation practice
