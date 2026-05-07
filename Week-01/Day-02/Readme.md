@@ -1,10 +1,6 @@
 
 
-\---
-
-
-
-\# Day-02 README (Next 30 Queries)
+# Day-02 README (Next 35 Queries)
 
 
 
